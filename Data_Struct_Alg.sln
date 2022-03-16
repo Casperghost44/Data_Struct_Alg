@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Struct_Alg_Les_04", "Data_Struct_Alg\Data_Struct_Alg_Les_04.csproj", "{3FA6835A-D199-4E9C-9996-4B0307B7F9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les_5", "Les_5\Les_5.csproj", "{0DE50F01-F2E9-44BA-8500-112A27DDB782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA6835A-D199-4E9C-9996-4B0307B7F9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA6835A-D199-4E9C-9996-4B0307B7F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA6835A-D199-4E9C-9996-4B0307B7F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA6835A-D199-4E9C-9996-4B0307B7F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE50F01-F2E9-44BA-8500-112A27DDB782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE50F01-F2E9-44BA-8500-112A27DDB782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE50F01-F2E9-44BA-8500-112A27DDB782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE50F01-F2E9-44BA-8500-112A27DDB782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978C9590-1F6D-4616-88B2-DF6A9950A810}
+	EndGlobalSection
+EndGlobal
